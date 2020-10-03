@@ -2,15 +2,15 @@
 
 # Iniciando Aplicação
 
-Para iniciar o front-end:
+#Para iniciar o front-end:
 
-npm install
-npm start
+#npm install
+#npm start
 
-Para iniciar o back-end:
+#Para iniciar o back-end:
 
-gradlew clean build
-gradlew bootrun
+#gradlew clean build
+#gradlew bootrun
 
 
 ### Documentação de Referência
