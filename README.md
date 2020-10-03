@@ -7,6 +7,8 @@
 # npm install
 # npm start
 
+# Obs: Atentar-se para abrir 2 abas da aplicação no navegador ****
+
 # Para iniciar o back-end:
 
 # gradlew clean build
